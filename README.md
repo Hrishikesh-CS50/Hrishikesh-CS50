@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Rishi
+# I'm Rishi
 AI Engineer with a background in Materials Science (M.Sc.), focused on building practical, data-driven AI systems. I specialize in developing LLM-powered applications, NLP solutions, and end-to-end machine learning pipelines.
 My work combines strong engineering fundamentals with applied AI to turn real-world data into scalable, intelligent products.
 
@@ -11,22 +11,10 @@ My work combines strong engineering fundamentals with applied AI to turn real-wo
 * Improving performance of NLP and deep learning models
 
 ## 🛠️ Tools & Technologies
-
-**Languages & Core Tools**
-* Python
-
-**AI / Machine Learning**
-* TensorFlow, PyTorch
-* Scikit-learn
-
-**LLMs & NLP**
-* LangChain
-* Transformers, embeddings
-* RAG pipelines
-* 
-**Data & Systems**
-* Vector databases
-* API integration
+**Languages & Core Tools**: Python  
+**AI / Machine Learning**: TensorFlow, PyTorch, Scikit-learn  
+**LLMs & NLP**: LangChain, Transformers, embeddings, RAG pipelines  
+**Data & Systems**: Vector databases, API integration
   
 ## 📫 How to Reach Me
 * LinkedIn: www.linkedin.com/in/hrishikesh-reddy-sanivarapu-046512125
